@@ -1,6 +1,6 @@
 export default function AboutSection() {
   return (
-    <div className=" w-full bg-white py-16 px-4 md:px-10">
+    <div className=" w-full bg-gray-100 py-16 px-4 md:px-10">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-10">
         <img
           width={300}

@@ -102,7 +102,7 @@ function Navbar() {
             <h1 className="text-lg font-bold mb-2">+998999479947</h1>
             <SignedOut>
               <Button className="bg-red-600 text-white hover:bg-red-700 w-full">
-                <SignInButton mode="modal" />
+                <SignInButton mode="modal">Kirish</SignInButton>
               </Button>
             </SignedOut>
             <SignedIn>
